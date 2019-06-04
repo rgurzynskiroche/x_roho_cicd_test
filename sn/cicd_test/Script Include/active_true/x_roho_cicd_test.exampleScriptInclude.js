@@ -3,7 +3,7 @@
  * ClassName   : sys_script_include
  * Created On  : 2019-06-04 13:19:28
  * Created By  : sxgurzyr
- * Updated On  : 2019-06-04 13:19:37
+ * Updated On  : 2019-06-04 14:15:11
  * Updated By  : sxgurzyr
  * URL         : /sys_script_include.do?sys_id=a231734e4f7df38023ab0ebf0310c778
  */
@@ -22,6 +22,7 @@ exampleScriptInclude.prototype = /** @lends x_roho_cicd_test.module:sys_script_i
      * @returns {undefined}
      */
     initialize: function() {
+		//testing123
     },
 
     type: 'exampleScriptInclude'
